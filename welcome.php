@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <section id="main-content">
-                            <div class="card w-55 mx-auto">
+                            <div class="card mx-auto">
                                 <div class="card-title">
                                     <h1 class="text-danger">Salutations!</h1>
                                 </div>

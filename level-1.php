@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <section id="main-content">
-                            <div class="card w-55 mx-auto">
+                            <div class="card mx-auto">
                                 <div class="card-title">
                                     <h1 class="text-danger">When was the inauguration of our very own Cardiac Center?</h1>
                                 </div>
@@ -38,7 +38,9 @@
                                                     <div class="col-md-6">
                                                     <img class="img-fluid" src="assets/images/cardiac_center.jpg" alt="Cardiac Center Photo" />
                                                     </div>
-                                                    <div class="col-sm-3">
+                                                    <div class="col-md-6">
+                                                        <h5> Options: </h5>
+                                                        <br>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level1_choice1">
                                                         <label class="form-check-label" for="level1_choice1">

@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <section id="main-content">
-                            <div class="card w-55 mx-auto">
+                            <div class="card mx-auto">
                                 <div class="card-title">
                                     <h3 class="text-danger">We launched our Online Appointment System wayback May 2021, who is the first doctor featured on the doctors and consultants section of the home page?</h3>
                                 </div>
@@ -38,7 +38,9 @@
                                                     <div class="col-md-6">
                                                     <img class="img-fluid" src="assets/images/doc-who.jpg" alt="Doctor Who" />
                                                     </div>
-                                                    <div class="col-sm-3">
+                                                    <div class="col-md-6">
+                                                    <h5> Options: </h5>
+                                                        <br>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level2_choice1">
                                                         <label class="form-check-label" for="level1_choice1">

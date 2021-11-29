@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <section id="main-content">
-                            <div class="card w-55 mx-auto">
+                            <div class="card mx-auto">
                                 <div class="card-title">
                                     <h1 class="text-danger">We recently posted a hiring post, how many Medical Officer III do we need?</h1>
                                 </div>
@@ -35,10 +35,12 @@
                                         <form class="form-horizontal">
                                             <div class="form-group has-success">
                                                 <div class="row">
-                                                    <div class="col-md-6">
+                                                    <div class="col-md-2">
                                                     <img class="img-fluid" src="assets/images/counting.jpg" alt="counting" />
                                                     </div>
-                                                    <div class="col-sm-3">
+                                                    <div class="col-md-6">
+                                                    <h5> Options: </h5>
+                                                        <br>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level5_choice1">
                                                         <label class="form-check-label" for="level1_choice1">
