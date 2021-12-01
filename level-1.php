@@ -42,19 +42,19 @@
                                                         <h5> Options: </h5>
                                                         <br>
                                                     <div class="form-check">
-                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level1_choice1">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level1_choice1" required>
                                                         <label class="form-check-label" for="level1_choice1">
                                                         <h4>October 19, 2021</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
-                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level1_choice2">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level1_choice2" required>
                                                         <label class="form-check-label" for="level1_choice2">
                                                         <h4>October 17, 2021</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
-                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level1_choice3">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level1_choice3" required>
                                                         <label class="form-check-label" for="level1_choice3">
                                                         <h4>October 18, 2021</h4>
                                                         </label>

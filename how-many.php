@@ -43,19 +43,19 @@
                                                         <br>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level5_choice1">
-                                                        <label class="form-check-label" for="level1_choice1">
+                                                        <label class="form-check-label" for="level5_choice1">
                                                         <h4>28</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level5_choice2">
-                                                        <label class="form-check-label" for="level1_choice2">
+                                                        <label class="form-check-label" for="level5_choice2">
                                                         <h4>36</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level5_choice3">
-                                                        <label class="form-check-label" for="level1_choice3">
+                                                        <label class="form-check-label" for="level5_choice3">
                                                         <h4>41</h4>
                                                         </label>
                                                     </div>

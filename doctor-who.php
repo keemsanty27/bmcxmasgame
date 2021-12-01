@@ -43,19 +43,19 @@
                                                         <br>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level2_choice1">
-                                                        <label class="form-check-label" for="level1_choice1">
+                                                        <label class="form-check-label" for="level2_choice1">
                                                         <h4>Dr. Alma Bresnan MD, FPOGS, FSGOP, FPSO </h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level2_choice2">
-                                                        <label class="form-check-label" for="level1_choice2">
+                                                        <label class="form-check-label" for="level2_choice2">
                                                         <h4>Dr. Mark Velez MD, DPBRO</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level2_choice3">
-                                                        <label class="form-check-label" for="level1_choice3">
+                                                        <label class="form-check-label" for="level2_choice3">
                                                         <h4>Dr. Ma. Felma Rayel MD, FPOA</h4>
                                                         </label>
                                                     </div>
