@@ -311,7 +311,7 @@ $(document).ready(function (){
                 confirmButtonText: 'Yes',
                 //closeOnConfirm: false
             }).then(function(){
-                window.location = "Kidney.php";
+                window.location = "Another-Save-Point.php";
             }
             ); 
         }else{
