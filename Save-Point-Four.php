@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Save Point</title>
+    <title>Welcome!</title>
 
     <?php include("constant/header.php"); ?>
-
+    
 </head>
 
 <body>
@@ -19,7 +19,7 @@
                     <div class="col-lg-8 p-r-0 title-margin-right">
                         <div class="page-header">
                             <div class="page-title">
-                                <h1 class="text-primary">Welcome to the first Save Point!</h1>
+                                <h1 class="text-danger">Welcome to the fourth save point!</h1>
                             </div>
                         </div>
                     </div>
@@ -27,19 +27,14 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">Hello Again! &#128075; </h1>
-                                    <br/>
+                                    <h1 class="text-danger">Hello Again!</h1>
                                 </div>
                                 <div class="card-body">
-                                    <center>
-                                    <img class="img-fluid" src="assets/images/floppy-icon.png" height="200px" width="200px" alt="Save Point"/>
-                                    </center>
-                                    <p class="text-justify"><h5> You have reached a <b>SAVE POINT.</b> You are spared from going back to Level 1 when you make a mistake.</h5></p>
-                                    <p class="text-justify"><h5> Five (5) levels down but there are more to go. Are you ready to continue?</h5></p>
+                                   <p class="text-justify"><h5> This is a save point. You are spared from climbing from level sixteen when you make a mistake.</h5></p>
                                         <br/>
                                    <div class="row">
                                         <div class="col text-center">
-                                            <a href="OPD.php" class="btn btn-lg btn-rounded btn-success mx-auto">Let's Carry On!</a>
+                                            <a href="#" class="btn btn-lg btn-rounded btn-success mx-auto">Let's Carry On!</a>
                                         </div>
                                    </div>
                                 </div>

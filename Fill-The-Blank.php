@@ -27,7 +27,7 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">Fill in the blank.</h1>
+                                    <h1 class="text-danger">Fill in the blank:</h1>
                                     <h3> We provide specialized healthcare services, training and _____________ with excellence. </h3>
                                 </div>
                                 <div class="card-body">
@@ -45,19 +45,19 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level7_choice1">
                                                         <label class="form-check-label" for="level7_choice1">
-                                                        <h4>Research</h4>
+                                                        <h4>research</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level7_choice2">
                                                         <label class="form-check-label" for="level7_choice2">
-                                                        <h4>Care</h4>
+                                                        <h4>care</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level7_choice3">
                                                         <label class="form-check-label" for="level7_choice3">
-                                                        <h4>Love</h4>
+                                                        <h4>love</h4>
                                                         </label>
                                                     </div>
                                                     </div>
@@ -67,7 +67,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col text-center">
-                                            <button id="level7" class="btn btn-md btn-rounded btn-primary">Submit</button>
+                                            <button id="level7" class="btn btn-md btn-rounded btn-primary">Sub<u>m</u>it</button>
                                         </div>
                                     </div>
                                 </div>

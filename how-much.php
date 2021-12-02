@@ -27,7 +27,7 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">How much for a Lumbar Spine CT scan?</h1>
+                                    <h1 class="text-danger">How much does a Lumba<u>r</u> Spine CT Scan cost in BMC?</h1>
                                 </div>
                                 <div class="card-body">
 

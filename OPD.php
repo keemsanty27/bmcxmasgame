@@ -27,7 +27,7 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">In the OPD, what's the 3rd step for new patients?</h1>
+                                    <h1 class="text-danger">In the OPD, what's the 3rd step new patients must undergo?</h1>
                                 </div>
                                 <div class="card-body">
 
@@ -44,7 +44,7 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level6_choice1">
                                                         <label class="form-check-label" for="level6_choice1">
-                                                        <h4>Taking the vital signs of the patient</h4>
+                                                        <h4>Taking <u>t</u>he vital signs of the patient</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">

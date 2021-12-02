@@ -27,7 +27,7 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h3 class="text-danger">We launched our Online Appointment System wayback May 2021, who is the first doctor featured on the doctors and consultants section of the home page?</h3>
+                                    <h3 class="text-danger">Our Online Appointment System was launched in May of 2021. W<u>h</u>o was the first doctor featured on the <i>“Doctors and Consultants”</i> section of the home page?</h3>
                                 </div>
                                 <div class="card-body">
 

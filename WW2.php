@@ -27,7 +27,7 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">Between 1942 and 1945, which nationality occupied the Bicol Medical Center and turn it into their barracks?</h1>
+                                    <h1 class="text-danger">Between 1942 and 1945, which nationality occupied Camarines Sur Provincial Hospital and turned it into their barracks?</h1>
                                 </div>
                                 <div class="card-body">
 
@@ -56,7 +56,7 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level8_choice3">
                                                         <label class="form-check-label" for="level8_choice3">
-                                                        <h4>None from the choices above</h4>
+                                                        <h4>None from the choices <u>a</u>bove</h4>
                                                         </label>
                                                     </div>
                                                     </div>

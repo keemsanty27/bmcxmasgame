@@ -27,7 +27,7 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">We recently posted a hiring post, how many Medical Officer III do we need?</h1>
+                                    <h1 class="text-danger">In one of our recent hiring posts, how many opening<u>s</u> do we have for Medical Officer III?</h1>
                                 </div>
                                 <div class="card-body">
 

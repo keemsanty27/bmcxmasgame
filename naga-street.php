@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Level 10</title>
+    <title>Level 15</title>
 
     <?php include("constant/header.php"); ?>
     
@@ -19,7 +19,7 @@
                     <div class="col-lg-8 p-r-0 title-margin-right">
                         <div class="page-header">
                             <div class="page-title">
-                                <h1 id="header10" class="text-danger">Level - 10</h1>
+                                <h1 id="header15" class="text-danger">Level - 15</h1>
                             </div>
                         </div>
                     </div>
@@ -27,7 +27,7 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">What month <u>i</u>s National Kidney Month?</h1>
+                                    <h1 class="text-danger">What was the name of the very first street where Camarines Sur provincial <u>h</u>ospital was first located?</h1>
                                 </div>
                                 <div class="card-body">
                                 <div class="input-states">
@@ -35,27 +35,27 @@
                                             <div class="form-group has-success">
                                                 <div class="row">
                                                     <div class="col-md-4">
-                                                    <img class="img-fluid" src="assets/images/kidney.jpg" alt="Kidney"/>
+                                                    <img class="img-fluid" src="assets/images/naga-street.jpg" alt="A Street in Naga City"/>
                                                     </div>
                                                     <div class="col-md-6">
                                                     <h5> Options: </h5>
                                                         <br>
                                                     <div class="form-check">
-                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level10_choice1">
-                                                        <label class="form-check-label" for="level10_choice1">
-                                                        <h4>March</h4>
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level15_choice1">
+                                                        <label class="form-check-label" for="level15_choice1">
+                                                        <h4>Mabini Street</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
-                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level10_choice2">
-                                                        <label class="form-check-label" for="level10_choice2">
-                                                        <h4>October</h4>
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level15_choice2">
+                                                        <label class="form-check-label" for="level15_choice2">
+                                                        <h4>Peñafrancia Avenue</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
-                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level10_choice3">
-                                                        <label class="form-check-label" for="level10_choice3">
-                                                        <h4>June</h4>
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level15_choice3">
+                                                        <label class="form-check-label" for="level15_choice3">
+                                                        <h4>Panganiban Drive</h4>
                                                         </label>
                                                     </div>
                                                     </div>
@@ -65,7 +65,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col text-center">
-                                            <button id="level10" class="btn btn-md btn-rounded btn-primary">Submit</button>
+                                            <button id="level15" class="btn btn-md btn-rounded btn-primary">Submit</button>
                                         </div>
                                     </div>
                                 </div>

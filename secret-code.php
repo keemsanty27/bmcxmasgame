@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Save Point</title>
+    <title>Final Challenge</title>
 
     <?php include("constant/header.php"); ?>
-
+    
 </head>
 
 <body>
@@ -19,7 +19,7 @@
                     <div class="col-lg-8 p-r-0 title-margin-right">
                         <div class="page-header">
                             <div class="page-title">
-                                <h1 class="text-primary">Welcome to the first Save Point!</h1>
+                                <h1 class="text-primary">Welcome to the the FINAL CHALLENGE!</h1>
                             </div>
                         </div>
                     </div>
@@ -27,21 +27,15 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">Hello Again! &#128075; </h1>
-                                    <br/>
+                                    <h1 class="text-danger">You made it!... Or did you? &#128527; </h1>
                                 </div>
                                 <div class="card-body">
-                                    <center>
-                                    <img class="img-fluid" src="assets/images/floppy-icon.png" height="200px" width="200px" alt="Save Point"/>
-                                    </center>
-                                    <p class="text-justify"><h5> You have reached a <b>SAVE POINT.</b> You are spared from going back to Level 1 when you make a mistake.</h5></p>
-                                    <p class="text-justify"><h5> Five (5) levels down but there are more to go. Are you ready to continue?</h5></p>
-                                        <br/>
-                                   <div class="row">
-                                        <div class="col text-center">
-                                            <a href="OPD.php" class="btn btn-lg btn-rounded btn-success mx-auto">Let's Carry On!</a>
-                                        </div>
-                                   </div>
+
+                                    <p class="text-justify"><h5> Throughout the levels, we have hidden important letters in plain sight. When put together, these letters form a <i>secret code.</i> Can you guess what it is?</h5></p>
+                                    <p class="text-justify"><h5> Use the form below to submit your personal information together with the secret code.</h5></p>
+                                    <p class="text-justify"> Note: Time is TICKING. Submit the required information as soon as possible to get your name on the list of selected winners. </p>
+
+                                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0daXnB3CuEISaOwzJkGL6GklHUrBYe4lZ1gUuDMsmBsrKAg/viewform?embedded=true" width="320" height="979" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
                                 </div>
                             </div>
                     <div class="row">

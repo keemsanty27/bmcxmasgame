@@ -50,7 +50,7 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level4_choice2">
                                                         <label class="form-check-label" for="level4_choice2">
-                                                        <h4>Integrity</h4>
+                                                        <h4>Integr<u>i</u>ty</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">

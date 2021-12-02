@@ -27,7 +27,7 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">What's the caption of our first IG post?</h1>
+                                    <h1 class="text-danger">What's the caption of our fir<u>s</u>t IG post?</h1>
                                 </div>
                                 <div class="card-body">
                                 <div class="input-states">

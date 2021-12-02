@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Level 10</title>
+    <title>Level 14</title>
 
     <?php include("constant/header.php"); ?>
     
@@ -19,7 +19,7 @@
                     <div class="col-lg-8 p-r-0 title-margin-right">
                         <div class="page-header">
                             <div class="page-title">
-                                <h1 id="header10" class="text-danger">Level - 10</h1>
+                                <h1 id="header14" class="text-danger">Level - 14</h1>
                             </div>
                         </div>
                     </div>
@@ -27,7 +27,7 @@
                 <section id="main-content">
                             <div class="card mx-auto">
                                 <div class="card-title">
-                                    <h1 class="text-danger">What month <u>i</u>s National Kidney Month?</h1>
+                                    <h1 class="text-danger">Who was the p<u>r</u>esident who passed into law the conversion of BRTTH to BMC in 1995?</h1>
                                 </div>
                                 <div class="card-body">
                                 <div class="input-states">
@@ -35,27 +35,27 @@
                                             <div class="form-group has-success">
                                                 <div class="row">
                                                     <div class="col-md-4">
-                                                    <img class="img-fluid" src="assets/images/kidney.jpg" alt="Kidney"/>
+                                                    <img class="img-fluid" src="assets/images/ph-president-flag.png" alt="Flag of the President of the Philippines"/>
                                                     </div>
                                                     <div class="col-md-6">
                                                     <h5> Options: </h5>
                                                         <br>
                                                     <div class="form-check">
-                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level10_choice1">
-                                                        <label class="form-check-label" for="level10_choice1">
-                                                        <h4>March</h4>
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level14_choice1">
+                                                        <label class="form-check-label" for="level14_choice1">
+                                                        <h4>Corazon Cojuanco Aquino</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
-                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level10_choice2">
-                                                        <label class="form-check-label" for="level10_choice2">
-                                                        <h4>October</h4>
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level14_choice2">
+                                                        <label class="form-check-label" for="level14_choice2">
+                                                        <h4>Joseph Ejercito Estrada</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
-                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level10_choice3">
-                                                        <label class="form-check-label" for="level10_choice3">
-                                                        <h4>June</h4>
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level14_choice3">
+                                                        <label class="form-check-label" for="level14_choice3">
+                                                        <h4>Fidel Valdez Ramos</h4>
                                                         </label>
                                                     </div>
                                                     </div>
@@ -65,7 +65,7 @@
                                     </div>
                                     <div class="row">
                                         <div class="col text-center">
-                                            <button id="level10" class="btn btn-md btn-rounded btn-primary">Submit</button>
+                                            <button id="level14" class="btn btn-md btn-rounded btn-primary">Submit</button>
                                         </div>
                                     </div>
                                 </div>
