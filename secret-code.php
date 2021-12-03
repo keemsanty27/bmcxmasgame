@@ -35,7 +35,15 @@
                                     <p class="text-justify"><h5> Use the form below to submit your personal information together with the secret code.</h5></p>
                                     <p class="text-justify"> Note: Time is TICKING. Submit the required information as soon as possible to get your name on the list of selected winners. </p>
 
-                                    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0daXnB3CuEISaOwzJkGL6GklHUrBYe4lZ1gUuDMsmBsrKAg/viewform?embedded=true" width="320" height="979" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                                </div>
+                                <div class="row mx-auto">
+                                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe0daXnB3CuEISaOwzJkGL6GklHUrBYe4lZ1gUuDMsmBsrKAg/viewform?embedded=true" width="920" height="979" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                                </div>
+                                <br>
+                                <div class="row">
+                                        <div class="col text-center">
+                                            <button class="btn btn-md btn-rounded btn-danger"><a href="level-1.php" style="color: white">Back to Level 1</a></button>
+                                        </div>
                                 </div>
                             </div>
                     <div class="row">
