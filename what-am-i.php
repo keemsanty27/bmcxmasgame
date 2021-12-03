@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Level 17</title>
+    <title>Level 17 | BMC Virtual Christmas Game 2021</title>
 
     <?php include("constant/header.php"); ?>
     
@@ -43,19 +43,31 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level17_choice1">
                                                         <label class="form-check-label" for="level17_choice1">
-                                                        <h4>Old Building</h4>
+                                                        <h4>8-Storey Building</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level17_choice2">
                                                         <label class="form-check-label" for="level17_choice2">
-                                                        <h4>5-Storey Building</h4>
+                                                        <h4>Old Building</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level17_choice3">
                                                         <label class="form-check-label" for="level17_choice3">
-                                                        <h4>8-Storey Building</h4>
+                                                        <h4>5-Storey Building</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level17_choice4">
+                                                        <label class="form-check-label" for="level17_choice4">
+                                                        <h4>Dietary Building</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level17_choice5">
+                                                        <label class="form-check-label" for="level17_choice5">
+                                                        <h4>Cancer Center</h4>
                                                         </label>
                                                     </div>
                                                     </div>

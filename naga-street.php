@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Level 15</title>
+    <title>Level 15 | BMC Virtual Christmas Game 2021</title>
 
     <?php include("constant/header.php"); ?>
     
@@ -43,18 +43,30 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level15_choice1">
                                                         <label class="form-check-label" for="level15_choice1">
-                                                        <h4>Mabini Street</h4>
+                                                        <h4>Calle Via Gainza</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level15_choice2">
                                                         <label class="form-check-label" for="level15_choice2">
-                                                        <h4>Peñafrancia Avenue</h4>
+                                                        <h4>Mabini Street</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level15_choice3">
                                                         <label class="form-check-label" for="level15_choice3">
+                                                        <h4>Calle Real</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level15_choice4">
+                                                        <label class="form-check-label" for="level15_choice4">
+                                                        <h4>Barlin Street</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level15_choice5">
+                                                        <label class="form-check-label" for="level15_choice5">
                                                         <h4>Panganiban Drive</h4>
                                                         </label>
                                                     </div>

@@ -277,7 +277,7 @@ $(document).ready(function (){
   }else if($('#header9').length){
     //level 9
     $('body').on('click', '#level9', function(){
-        if($('#level9_choice1').is(':checked')) { 
+        if($('#level9_choice4').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -311,7 +311,7 @@ $(document).ready(function (){
   }else if($('#header10').length){
     //level 10
     $('body').on('click', '#level10', function(){
-        if($('#level10_choice3').is(':checked')) { 
+        if($('#level10_choice5').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -345,7 +345,7 @@ $(document).ready(function (){
   }else if($('#header11').length){
     //level 11
     $('body').on('click', '#level11', function(){
-        if($('#level11_choice2').is(':checked')) { 
+        if($('#level11_choice3').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -379,7 +379,7 @@ $(document).ready(function (){
   }else if($('#header12').length){
     //level 12
     $('body').on('click', '#level12', function(){
-        if($('#level12_choice1').is(':checked')) { 
+        if($('#level12_choice5').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -413,7 +413,7 @@ $(document).ready(function (){
   }else if($('#header13').length){
     //level 13
     $('body').on('click', '#level13', function(){
-        if($('#level13_choice3').is(':checked')) { 
+        if($('#level13_choice1').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -447,7 +447,7 @@ $(document).ready(function (){
    }else if($('#header14').length){
     //level 14
     $('body').on('click', '#level14', function(){
-        if($('#level14_choice3').is(':checked')) { 
+        if($('#level14_choice4').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -481,7 +481,7 @@ $(document).ready(function (){
    }else if($('#header15').length){
     //level 15
     $('body').on('click', '#level15', function(){
-        if($('#level15_choice1').is(':checked')) { 
+        if($('#level15_choice2').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -515,7 +515,7 @@ $(document).ready(function (){
    }else if($('#header16').length){
     //level 16
     $('body').on('click', '#level16', function(){
-        if($('#level16_choice2').is(':checked')) { 
+        if($('#level16_choice3').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -549,7 +549,7 @@ $(document).ready(function (){
    }else if($('#header17').length){
     //level 17
     $('body').on('click', '#level17', function(){
-        if($('#level17_choice2').is(':checked')) { 
+        if($('#level17_choice3').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -583,7 +583,7 @@ $(document).ready(function (){
    }else if($('#header18').length){
     //level 18
     $('body').on('click', '#level18', function(){
-        if($('#level18_choice3').is(':checked')) { 
+        if($('#level18_choice5').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -617,7 +617,7 @@ $(document).ready(function (){
    }else if($('#header19').length){
     //level 19
     $('body').on('click', '#level19', function(){
-        if($('#level19_choice2').is(':checked')) { 
+        if($('#level19_choice4').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",
@@ -651,7 +651,7 @@ $(document).ready(function (){
    }else if($('#header20').length){
     //level 20
     $('body').on('click', '#level20', function(){
-        if($('#level20_choice2').is(':checked')) { 
+        if($('#level20_choice4').is(':checked')) { 
             console.log('1 checked')
             swal.fire({
                 title: "Correct!",

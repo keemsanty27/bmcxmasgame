@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Level 19</title>
+    <title>Level 19 | BMC Virtual Christmas Game 2021</title>
 
     <?php include("constant/header.php"); ?>
     
@@ -49,12 +49,24 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level20_choice2">
                                                         <label class="form-check-label" for="level20_choice2">
-                                                        <h4>2572</h4>
+                                                        <h4>2577</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level20_choice3">
                                                         <label class="form-check-label" for="level20_choice3">
+                                                        <h4>2575</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level20_choice4">
+                                                        <label class="form-check-label" for="level20_choice4">
+                                                        <h4>2572</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level20_choice5">
+                                                        <label class="form-check-label" for="level20_choice5">
                                                         <h4>2571</h4>
                                                         </label>
                                                     </div>

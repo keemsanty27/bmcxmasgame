@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Level 2</title>
+    <title>Level 2 | BMC Virtual Christmas Game 2021</title>
 
     <?php include("constant/header.php"); ?>
     
@@ -44,19 +44,31 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level2_choice1">
                                                         <label class="form-check-label" for="level2_choice1">
-                                                        <h4>Dr. Alma Bresnan MD, FPOGS, FSGOP, FPSO </h4>
+                                                        <h4>Alma Bresnan MD, FPOGS, FSGOP, FPSO </h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level2_choice2">
                                                         <label class="form-check-label" for="level2_choice2">
-                                                        <h4>Dr. Mark Velez MD, DPBRO</h4>
+                                                        <h4>Mark Velez MD, DPBRO</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level2_choice3">
                                                         <label class="form-check-label" for="level2_choice3">
-                                                        <h4>Dr. Ma. Felma Rayel MD, FPOA</h4>
+                                                        <h4>Ma. Felma Rayel MD, FPOA</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level2_choice4">
+                                                        <label class="form-check-label" for="level2_choice4">
+                                                        <h4>Archimedes B. Bagnes, MD, MHA, FPSOHNS</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level2_choice5">
+                                                        <label class="form-check-label" for="level2_choice5">
+                                                        <h4>Rommel M. Galicia, MD, MHA, FPSGS, FPSOSP , FPCS, FACS</h4>
                                                         </label>
                                                     </div>
                                                     </div>

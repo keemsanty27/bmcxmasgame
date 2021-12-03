@@ -43,19 +43,31 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level13_choice1">
                                                         <label class="form-check-label" for="level13_choice1">
-                                                        <h4>Firecrackers Inj<u>u</u>ry Prevention Month</h4>
+                                                        <h4>National Consciousness Day for the Elimination of VAWC</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level13_choice2">
                                                         <label class="form-check-label" for="level13_choice2">
-                                                        <h4>World AIDS Day</h4>
+                                                        <h4>Firecrackers Inj<u>u</u>ry Prevention Month</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level13_choice3">
                                                         <label class="form-check-label" for="level13_choice3">
-                                                        <h4>National Consciousness Day for the Elimination of VAWC</h4>
+                                                        <h4>Linggo ng Kabataan</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level13_choice4">
+                                                        <label class="form-check-label" for="level13_choice4">
+                                                        <h4>Ear, Nose and Throat Consciousness Week</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level13_choice3">
+                                                        <label class="form-check-label" for="level13_choice5">
+                                                        <h4>World AIDS Day</h4>
                                                         </label>
                                                     </div>
                                                     </div>

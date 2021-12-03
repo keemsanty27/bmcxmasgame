@@ -56,6 +56,18 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level8_choice3">
                                                         <label class="form-check-label" for="level8_choice3">
+                                                        <h4>Spanish</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level8_choice4">
+                                                        <label class="form-check-label" for="level8_choice4">
+                                                        <h4>English</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level8_choice5">
+                                                        <label class="form-check-label" for="level8_choice5">
                                                         <h4>None from the choices <u>a</u>bove</h4>
                                                         </label>
                                                     </div>

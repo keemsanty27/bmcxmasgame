@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Level 14</title>
+    <title>Level 14 | BMC Virtual Christmas Game 2021</title>
 
     <?php include("constant/header.php"); ?>
     
@@ -55,7 +55,19 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level14_choice3">
                                                         <label class="form-check-label" for="level14_choice3">
+                                                        <h4>Gloria Macaraeg Macapagal Arroyo</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level14_choice4">
+                                                        <label class="form-check-label" for="level14_choice4">
                                                         <h4>Fidel Valdez Ramos</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level14_choice5">
+                                                        <label class="form-check-label" for="level14_choice5">
+                                                        <h4>Diosdado Pangan Macapagal Sr.</h4>
                                                         </label>
                                                     </div>
                                                     </div>

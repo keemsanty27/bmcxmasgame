@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Level 6</title>
+    <title>Level 6 | BMC Virtual Christmas Game 2021</title>
 
     <?php include("constant/header.php"); ?>
     
@@ -57,6 +57,18 @@
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level6_choice3">
                                                         <label class="form-check-label" for="level6_choice3">
                                                         <h4>Assessment of Patient's Condition at the Triage Area</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level6_choice4">
+                                                        <label class="form-check-label" for="level6_choice4">
+                                                        <h4>Information and Screening of the Patient</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level6_choice5">
+                                                        <label class="form-check-label" for="level6_choice5">
+                                                        <h4>Payment of User's Fee at the Cashier</h4>
                                                         </label>
                                                     </div>
                                                     </div>

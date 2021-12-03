@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Level 9</title>
+    <title>Level 9 | BMC Virtual Christmas Game 2021</title>
 
     <?php include("constant/header.php"); ?>
     
@@ -43,7 +43,7 @@
                                                     <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level9_choice1">
                                                         <label class="form-check-label" for="level9_choice1">
-                                                        <h4>"We're on Instagram!"</h4>
+                                                        <h4>"We are now on Instagram!"</h4>
                                                         </label>
                                                     </div>
                                                     <div class="form-check">
@@ -56,6 +56,18 @@
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level9_choice3">
                                                         <label class="form-check-label" for="level9_choice3">
                                                         <h4>"This is our only Instagram account!"</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level9_choice4">
+                                                        <label class="form-check-label" for="level9_choice4">
+                                                        <h4>"We're on Instagram!"</h4>
+                                                        </label>
+                                                    </div>
+                                                    <div class="form-check">
+                                                        <input class="form-check-input" type="radio" name="level1Radio" id="level9_choice5">
+                                                        <label class="form-check-label" for="level9_choice5">
+                                                        <h4>"Hi Instagram!"</h4>
                                                         </label>
                                                     </div>
                                                     </div>
