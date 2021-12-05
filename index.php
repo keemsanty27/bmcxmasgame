@@ -50,7 +50,7 @@
                                    <p class="text-justify"><h4 class="text-danger"> Now that you are here—are you ready to accept the challenge?</h4></p>
                                    <div class="row">
                                         <div class="col text-center">
-                                            <a href="level-1.php" class="btn btn-lg btn-rounded btn-success mx-auto">Let's Start</a>
+                                            <a href="game.php" class="btn btn-lg btn-rounded btn-success mx-auto">Let's Start</a>
                                         </div>
                                    </div>
                                 </div>

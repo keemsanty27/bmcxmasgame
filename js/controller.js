@@ -29,7 +29,7 @@ $(document).ready(function (){
                 confirmButtonText: "Retry",
                 //closeOnConfirm: false
             }).then(function(){
-                window.location = "level-1.php";
+                window.location = "game.php";
             }
             );
         }
@@ -63,7 +63,7 @@ $(document).ready(function (){
                 confirmButtonText: "Retry",
                 //closeOnConfirm: false
             }).then(function(){
-                window.location = "level-1.php";
+                window.location = "game.php";
             }
             );
         }
@@ -97,7 +97,7 @@ $(document).ready(function (){
                 confirmButtonText: "Retry",
                 //closeOnConfirm: false
             }).then(function(){
-                window.location = "level-1.php";
+                window.location = "game.php";
             }
             );
         }
@@ -131,7 +131,7 @@ $(document).ready(function (){
                 confirmButtonText: "Retry",
                 //closeOnConfirm: false
             }).then(function(){
-                window.location = "level-1.php";
+                window.location = "game.php";
             }
             );
         }
@@ -165,7 +165,7 @@ $(document).ready(function (){
                 confirmButtonText: "Retry",
                 //closeOnConfirm: false
             }).then(function(){
-                window.location = "level-1.php";
+                window.location = "game.php";
             }
             );
         }
@@ -687,9 +687,16 @@ $(document).ready(function (){
   }
 
 
-  if (window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
-   window.location = 'level-1.php'
-   alert('There is no going back from that mistake')
-}
+    if (window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+    //    window.location = 'level-1.php'
+        alert('There is no going back from that mistake')
+    }
+
+    history.pushState(null, null, 'game.php');    
+    window.addEventListener('popstate', function () {
+        // alert('There is no going back from that mistake');
+        history.pushState(null, null, 'game.php');        
+    });
+    
 
 });
