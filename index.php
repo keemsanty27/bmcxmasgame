@@ -32,7 +32,7 @@
                                 <div class="card-title">
                                     <h1 class="text-danger">Salutations!</h1>
                                 </div>
-                                <div class="card-body">
+                                <div class="card-body mx-auto">
                                    <img class="img-fluid" src="assets/images/front-man.gif" alt="The Front Man"/>
                                    <br/>
                                    <p class="text-justify"><h5> Hurry and don’t waste time</h5></p>
@@ -48,6 +48,8 @@
                                    <p class="text-justify"><h4> Are you fast enough? &#9200; </h4></p>
                                    <p class="text-justify"><h4> Are you smart enough? &#129488;</h4></p>
                                    <p class="text-justify"><h4 class="text-danger"> Now that you are here—are you ready to accept the challenge?</h4></p>
+                                   <br/>
+                                   <p class="text-justify">Doing other stuff other than playing the game will get you punished.</p>  
                                    <div class="row">
                                         <div class="col text-center">
                                             <a href="game.php" class="btn btn-lg btn-rounded btn-success mx-auto">Let's Start</a>

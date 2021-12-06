@@ -37,6 +37,7 @@
                                     <p class="text-justify"><h5> You have reached another <b>SAVE POINT.</b> You are spared from going back to Level 6 when you make a mistake.</h5></p>
                                     <p class="text-justify"><h5> Fifteen (15) levels down and you are almost at the finish line. Will you be one of our lucky winners?</h5></p>
                                         <br/>
+                                    <p class="text-justify">Going back and doing other stuff cancels out the save point.</p>
                                    <div class="row">
                                         <div class="col text-center">
                                             <a href="one-two-zero-zero.php" class="btn btn-lg btn-rounded btn-success mx-auto">Let's do this!</a>

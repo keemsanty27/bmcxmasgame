@@ -37,10 +37,11 @@
                                     <p class="text-justify"><h5> You have reached a <b>SAVE POINT.</b> You are spared from going back to Level 1 when you make a mistake.</h5></p>
                                     <p class="text-justify"><h5> Five (5) levels down but there are more to go. Are you ready to continue?</h5></p>
                                         <br/>
+                                    <p class="text-justify">Going back and doing other stuff cancels out the save point.</p>  
                                    <div class="row">
                                         <div class="col text-center">
                                             <a href="OPD.php" class="btn btn-lg btn-rounded btn-success mx-auto">Let's Carry On!</a>
-                                        </div>
+                                        </div>  
                                    </div>
                                 </div>
                             </div>

@@ -32,6 +32,7 @@
                                 <div class="card-body">
                                    <p class="text-justify"><h5> This is a save point. You are spared from climbing from level sixteen when you make a mistake.</h5></p>
                                         <br/>
+                                   <p class="text-justify">Going back and doing other stuff cancels out the save point.</p>
                                    <div class="row">
                                         <div class="col text-center">
                                             <a href="#" class="btn btn-lg btn-rounded btn-success mx-auto">Let's Carry On!</a>

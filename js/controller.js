@@ -698,5 +698,29 @@ $(document).ready(function (){
         history.pushState(null, null, 'game.php');        
     });
     
+//   if (window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
+//    window.location = 'level-1.php'
+//    alert('There is no going back from that mistake')
+// }
+
+// if (window.history && window.history.pushState) {
+
+//     $(window).on('popstate', function() {
+//       var hashLocation = location.hash;
+//       var hashSplit = hashLocation.split("#!/");
+//       var hashName = hashSplit[1];
+
+//       if (hashName !== '') {
+//         var hash = window.location.hash;
+//         if (hash === '') {
+//           alert('Do not cheat!');
+//             window.location='level-1.php';
+//             return false;
+//         }
+//       }
+//     });
+
+//     window.history.pushState('forward', null, './#forward');
+//   }
 
 });
