@@ -42,7 +42,7 @@
                                 <br>
                                 <div class="row">
                                         <div class="col text-center">
-                                            <button class="btn btn-md btn-rounded btn-danger"><a href="level-1.php" style="color: white">Back to Level 1</a></button>
+                                            <button class="btn btn-md btn-rounded btn-danger"><a href="game.php" style="color: white">Back to Level 1</a></button>
                                         </div>
                                 </div>
                             </div>
