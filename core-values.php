@@ -59,7 +59,7 @@
                                                         <h4>Excellence</h4>
                                                         </label>
                                                     </div>
-                                                    <div class="form-check">
+                                                    <!-- <div class="form-check">
                                                         <input class="form-check-input" type="radio" name="level1Radio" id="level4_choice4">
                                                         <label class="form-check-label" for="level4_choice4">
                                                         <h4>Compassion</h4>
@@ -70,7 +70,7 @@
                                                         <label class="form-check-label" for="level4_choice5">
                                                         <h4>Determination</h4>
                                                         </label>
-                                                    </div>
+                                                    </div> -->
                                                     </div>
                                                 </div>
                                             </div>

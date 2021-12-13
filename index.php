@@ -33,7 +33,9 @@
                                     <h1 class="text-danger">Salutations!</h1>
                                 </div>
                                 <div class="card-body mx-auto">
-                                   <img class="img-fluid" src="assets/images/front-man.gif" alt="The Front Man"/>
+                                <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" src="assets/images/mechanics.mp4"></iframe>
+                                </div>
                                    <br/>
                                    <p class="text-justify"><h5> Hurry and don’t waste time</h5></p>
                                    <p class="text-justify"><h5> for a mountain of questions you shall climb.</h5></p>
