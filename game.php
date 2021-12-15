@@ -99,3 +99,15 @@
 </body>
 
 </html>
+
+<script>
+function timeChecker() {
+    var countDownDate = new Date("Dec 17, 2021 13:00:00").getTime();
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+    if (distance > 0) {        
+        // document.getElementById("demo").innerHTML = "EXPIRED";
+        window.location = "index.php";
+    }
+}    
+</script>

@@ -692,11 +692,14 @@ $(document).ready(function (){
         alert('There is no going back from that mistake')
     }
 
-    history.pushState(null, null, 'game.php');    
+    history.pushState(null, null, 'welcome.php');    
     window.addEventListener('popstate', function () {
         // alert('There is no going back from that mistake');
-        history.pushState(null, null, 'game.php');        
+        
+        history.pushState(null, null, 'welcome.php');        
     });
+
+    
     
 //   if (window.performance && window.performance.navigation.type === window.performance.navigation.TYPE_BACK_FORWARD) {
 //    window.location = 'level-1.php'
