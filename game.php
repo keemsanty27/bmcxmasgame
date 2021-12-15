@@ -11,7 +11,7 @@
     
 </head>
 
-<body>
+<body onload="timeChecker()">
     <div class="content-wrap">
         <div class="main">
             <div class="container-fluid">
