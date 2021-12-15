@@ -1,77 +1,93 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- Display the countdown timer in an element -->
+<!-- <div class="center">
+<h2 class="txt1">GAME BEGINS IN</h2>
+<br><br>
+<h1 class="txt" id="demo"></h1>
+</div> -->
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Welcome | BMC Virtual Christmas Game 2021</title>
+<div class="container">
+<div class="center1">
+  <p class="txt1"><b>GAME BEGINS IN</b></p>
+</div>
+<div class="center"> 
+  <p class="txt" id="demo"></p>
+</div>
+</div>
 
-    <?php include("constant/header.php"); ?>
-    
-</head>
+<!-- <div class="container">
+  <div class="vertical-center">
+  
+  </div>
+</div> -->
 
-<body>
-    <div class="content-wrap">
-        <div class="main">
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="col-lg-8 p-r-0 title-margin-right">
-                        <div class="page-header">
-                            <div class="page-title">
-                                <img class="img-fluid" src="assets/images/christmasicon.png" width="100px" height="100px" alt="BMC Christmas 2021 Icon"/>
-                                <h1 class="text-success">BICOL MEDICAL CENTER <br/>
-                                                        <b>BMC Virtual Christmas Game 2021</b>
-                                </h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <section id="main-content">
-                            <div class="card mx-auto">
-                                <div class="card-title">
-                                    <h1 class="text-danger">Salutations!</h1>
-                                </div>
-                                <div class="card-body mx-auto">
-                                <div class="embed-responsive embed-responsive-16by9">
-                                <iframe class="embed-responsive-item" src="assets/images/mechanics.mp4"></iframe>
-                                </div>
-                                   <br/>
-                                   <p class="text-justify"><h5> Hurry and don’t waste time</h5></p>
-                                   <p class="text-justify"><h5> for a mountain of questions you shall climb.</h5></p>
-                                   <p class="text-justify"><h5> Not everyone will make it.</h5></p>
-                                   <p class="text-justify"><h5> The treasure awaits at the summit.</h5></p>
-                                   <p class="text-justify"><h5> While you ascend with every step,</h5></p>
-                                   <p class="text-justify"><h5> one misstep is all that it takes</h5></p>
-                                   <p class="text-justify"><h5> to bring you back to the ground,</h5>
-                                   <p class="text-justify"><h5> like winter time snowflakes.</h5></p>
-                                        <hr/>
-                                   <p class="text-justify"><h4> Only the fastest are to be crowned. &#128081;</h4></p>
-                                   <p class="text-justify"><h4> Are you fast enough? &#9200; </h4></p>
-                                   <p class="text-justify"><h4> Are you smart enough? &#129488;</h4></p>
-                                   <p class="text-justify"><h4 class="text-danger"> Now that you are here—are you ready to accept the challenge?</h4></p>
-                                   <br/>
-                                   <p class="text-justify">Doing other stuff other than playing the game will get you punished.</p>  
-                                   <div class="row">
-                                        <div class="col text-center">
-                                            <a href="game.php" class="btn btn-lg btn-rounded btn-success mx-auto">Let's Start</a>
-                                        </div>
-                                   </div>
-                                </div>
-                            </div>
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="footer">
-                                <p>2021 © IHOMP</p>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-            </div>
-        </div>
-    </div>
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Dec 17, 2021 13:00:00").getTime();
 
-    <?php include("constant/footer.php"); ?>
-</body>
+// Update the count down every 1 second
+var x = setInterval(function() {
+  // Get today's date and time
+  var now = new Date().getTime();
 
-</html>
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    // document.getElementById("demo").innerHTML = "EXPIRED";
+    window.location = "welcome.php";
+  }
+}, 1000);
+</script>
+
+<style>
+@font-face {
+  font-family: fontit;
+  src: url(assets/fonts/MontserratLight.ttf);
+}
+.container { 
+  height: 100%;
+  width: 100%;
+  position: relative;
+  /* border: 3px solid green;  */
+  background: black;
+}
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.center1 {
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.txt {
+  font-size: 8rem;
+  font-family: fontit;  
+  color: red !important;  
+}
+.txt1 {
+  font-size: 6rem;
+  font-family: fontit;  
+  color: white !important;
+
+}
+</style>
