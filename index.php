@@ -1,24 +1,41 @@
-<!-- Display the countdown timer in an element -->
-<!-- <div class="center">
-<h2 class="txt1">GAME BEGINS IN</h2>
-<br><br>
-<h1 class="txt" id="demo"></h1>
-</div> -->
+<!DOCTYPE html>
+<html lang="en">
 
-<div class="container">
-<div class="center1">
-  <p class="txt1"><b>GAME BEGINS IN</b></p>
-</div>
-<div class="center"> 
-  <p class="txt" id="demo"></p>
-</div>
-</div>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Welcome | BMC Virtual Christmas Game 2021</title>
 
-<!-- <div class="container">
-  <div class="vertical-center">
-  
-  </div>
-</div> -->
+    <?php include("constant/header.php"); ?>
+    
+</head>
+
+<body>
+    <!-- <div class="content-wrap"> -->
+        <!-- <div class="main"> -->
+            <div class="container-fluid fill">
+                            <div class="row align-items-center fill">
+                              <div class="col-12 text-center">
+                                <div class="card mx-auto my-auto fill">
+                                  <!-- <div class="card-title">
+                                      <h1 class="text-danger">Salutations!</h1>                            
+                                  </div> -->
+                                  <div class="card-body mx-auto">
+                                  <h2><b>GAME BEGINS IN</b></h2>
+                                  <br>
+                                  <h1 id="demo"></h1>                          
+                                </div>   
+                              </div>
+                            </div>                 
+            </div>
+        <!-- </div> -->
+    <!-- </div> -->
+
+    <?php include("constant/footer.php"); ?>
+</body>
+
+</html>
 
 <script>
 // Set the date we're counting down to
@@ -52,16 +69,62 @@ var x = setInterval(function() {
 </script>
 
 <style>
+  html, body {
+    background: black;
+    height: 100%;
+  }
 @font-face {
   font-family: fontit;
   src: url(assets/fonts/MontserratLight.ttf);
 }
-.container { 
+.fill { 
+    min-height: 100%;
+    height: 100%;
+}
+.card {
+  background: black;
+  height: 100%;
+}
+.containererere { 
   height: 100%;
   width: 100%;
   position: relative;
   /* border: 3px solid green;  */
   background: black;
+}
+@media (min-width: 1px) {  
+  h1 {font-size:4rem; color: white !important;font-family: fontit;} /*1rem = 16px*/  
+  h2 {font-size:2rem; color: red !important; font-family: fontit;}  
+}
+@media (min-width: 544px) {  
+  h1 {font-size:4rem; color: white !important; font-family: fontit;} /*1rem = 16px*/  
+  h2 {font-size:2rem; color: red !important; font-family: fontit;}  
+}
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {  
+  h1 {font-size:5rem; color: white !important; font-family: fontit;} /*1rem = 16px*/  
+  h2 {font-size:3rem; color: red !important; font-family: fontit;}  
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  h1 {font-size:6rem; color: white !important; font-family: fontit;} /*1rem = 16px*/  
+  h2 {font-size:4rem; color: red !important; font-family: fontit;}  
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+  h1 {font-size:8rem; color: white !important; font-family: fontit;} /*1rem = 16px*/  
+  h2 {font-size:6rem; color: red !important; font-family: fontit;}  
+}
+.card {
+    background: black;
+    margin: 7.5px 0;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 3px;
+    box-shadow: 0 5px 20px rgb(0 0 0 / 10%);
 }
 .center {
   margin: 0;
